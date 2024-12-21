@@ -1,0 +1,31 @@
+/* customCalendar.css */
+
+.Mood-calendar__tile {
+    padding: 10px;
+    transition: background-color 0.3s ease;
+}
+
+.happy {
+    background-color: yellow;
+    color: black;
+}
+
+.sad {
+    background-color: blue;
+    color: white; 
+}
+
+.excited {
+    background-color: orange;
+    color: white;
+}
+
+.calm {
+    background-color: green;
+    color: white;
+}
+
+.anxious {
+    background-color: red;
+    color: white;
+}
